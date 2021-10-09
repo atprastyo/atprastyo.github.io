@@ -4,19 +4,28 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "70f0a29146bc6f431c606705f2641ff3",
-"index.html": "36e0a4eaa4e0a9ef52f2637e878fbba7",
-"/": "36e0a4eaa4e0a9ef52f2637e878fbba7",
-"main.dart.js": "9a99af6fe413651caabf77e6e05f9ee2",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"manifest.json": "c52b42d85e38fc4972bd0492edcb72aa",
-"assets/AssetManifest.json": "9c9089c4e7a6d99995e575c39b9436a2",
-"assets/NOTICES": "bde9ee889e7cdb2c908965b81d635c52",
+"index.html": "27b1937b6ca001bd8e4f42cc016d6a4a",
+"/": "27b1937b6ca001bd8e4f42cc016d6a4a",
+"main.dart.js": "0ba12876d708751d2853d7e600c48798",
+"favicon.png": "694c180b5170e52666a0e32f240bbf52",
+"icons/Icon-192.png": "dab42c77562f3ee86e5da642c5864bf5",
+"icons/Icon-512.png": "d99ead2400e6975cce1d6a9e3ea2e423",
+"manifest.json": "b6e4d655f352078c6785e570d90fc5e0",
+"assets/AssetManifest.json": "f26cdd7b22f664656b417fa7910519df",
+"assets/NOTICES": "a47161ab5c0cc47f4ba2b133045ec04b",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/assets/images/my_photo.png": "723cc50c5e3359d42c1a08f17c093650"
+"assets/assets/images/my_photo.jpg": "3d8a01c05cfd57c2c41516ec8f910c6e",
+"assets/assets/images/my_photo.png": "723cc50c5e3359d42c1a08f17c093650",
+"assets/assets/images/bg.jpg": "57d08b30984bf8e7f3182c6a10e818a3",
+"assets/assets/icons/github.svg": "9226aa209923e38c0a6ddcb236e2bc68",
+"assets/assets/icons/download.svg": "628700a3031424d215a441fab2da1731",
+"assets/assets/icons/check.svg": "4220c82511cc1dfb40b8bba7d25c5f55",
+"assets/assets/icons/dribble.svg": "d392567c5678d42472d2c7b766268101",
+"assets/assets/icons/linkedin.svg": "5b2195ddf9e879047dd8a163c4194920",
+"assets/assets/icons/twitter.svg": "a4a0163fef48a4247a305528c07bc4fa",
+"assets/assets/icons/behance.svg": "35ad2d47e647d0b168e7707b2984c6b5"
 };
 
 // The application shell files that are downloaded before a service worker can
