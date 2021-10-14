@@ -50,7 +50,12 @@ class _NameSectionState extends State<NameSection> {
             duration: const Duration(seconds: 1),
             child: ClipRRect(
               borderRadius: BorderRadius.circular(avaSize / 2),
-              child: Image.asset('images/my_photo.jpg'),
+              // child: Image.asset('images/my_photo.jpg'),
+              child: const Image(
+                image: NetworkImage(
+                  'https://lh3.googleusercontent.com/ogw/ADea4I7s57lFwoK1Y2OxgpNqV3df4-zg-TWO5b75pQHN=s192-c-mo',
+                ),
+              ),
             ),
           ),
           const SizedBox(height: 16.0),
