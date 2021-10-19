@@ -15,6 +15,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Agus Tri Prastyo',
+      debugShowCheckedModeBanner: false,
       theme: darkMode
           ? ThemeData.dark().copyWith(
               primaryColor: primaryColor,

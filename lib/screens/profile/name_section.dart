@@ -3,6 +3,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:my_profile_app/models/user.dart';
+import 'package:my_profile_app/theme/neumorphic.dart';
 
 class NameSection extends StatefulWidget {
   const NameSection({Key? key}) : super(key: key);
@@ -33,7 +34,7 @@ class _NameSectionState extends State<NameSection> {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.start,
         children: <Widget>[
-          const SizedBox(height: 24.0),
+          const SizedBox(height: 16.0),
           AnimatedContainer(
             width: avaSize,
             decoration: BoxDecoration(
@@ -58,24 +59,43 @@ class _NameSectionState extends State<NameSection> {
               ),
             ),
           ),
-          const SizedBox(height: 16.0),
-          Text(
-            const User().name,
-            style: const TextStyle(fontWeight: FontWeight.bold),
-          ),
-          const SizedBox(height: 8.0),
-          Text(const User().role),
-          const SizedBox(height: 8.0),
-          RichText(
-            textAlign: TextAlign.center,
-            text: TextSpan(
-              text: const User().residence + ', ',
-              children: <TextSpan>[
-                TextSpan(
-                  text: const User().city,
-                  style: const TextStyle(fontWeight: FontWeight.bold),
+          const SizedBox(height: 24.0),
+          Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 16.0),
+            child: NeumorphicContainer(
+              depth: 6,
+              width: MediaQuery.of(context).size.width,
+              height: 100,
+              borderRadius: 8.0,
+              borderThickness: 2,
+              curvature: Curvature.convex,
+              child: Padding(
+                padding: const EdgeInsets.all(8.0),
+                child: Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: <Widget>[
+                    Text(
+                      const User().name,
+                      style: const TextStyle(fontWeight: FontWeight.bold),
+                    ),
+                    const SizedBox(height: 8.0),
+                    Text(const User().role),
+                    const SizedBox(height: 8.0),
+                    RichText(
+                      textAlign: TextAlign.center,
+                      text: TextSpan(
+                        text: const User().residence + ', ',
+                        children: <TextSpan>[
+                          TextSpan(
+                            text: const User().city,
+                            style: const TextStyle(fontWeight: FontWeight.bold),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ],
                 ),
-              ],
+              ),
             ),
           ),
         ],
