@@ -56750,57 +56750,59 @@ return new A.rY(B.Es,"Agus Tri Prastyo",A.acn(r,B.fx,A.a8s(p,p,p,p,p,p,p,p,p,p,p
 A.t8.prototype={
 ai(){return new A.I0(B.l)}}
 A.I0.prototype={
-O(a6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=null,a="Team management, Mobile app development, Git",a0=A.bg(a6).RG,a1=t.bk,a2=A.a([B.c7,B.i,B.eO,B.i,B.c7],a1),a3=new A.cL(B.d6,2,B.aw,B.a_),a4=A.cZ(new A.ck(B.zl,new A.za(A.q2(88),A.Sd("images/profile_circle.png",b,b,160),b),b),1),a5=a0.c
-a5=A.bt("Agus Tri Prastyo",a5==null?b:a5.oI(B.q,B.a4),b,b)
-s=a0.f
-s=A.bt("Software Engineer",s==null?b:s.oI(B.la,B.ar),b,b)
-r=a0.x
-r=A.bt("+6281939143915",r==null?b:r.E3(B.k,1.8),b,b)
-q=a0.z
-p=q==null
-o=t.T
-r=A.cG(A.a([B.zW,B.uj,r,B.Go,B.A0,B.uj,A.bt("agustrip@gmail.com",p?b:q.E3(B.k,1.4),b,b)],o),B.C,B.D)
-n=a0.y
-m=n==null
-a4=A.Ol(new A.ck(B.zf,A.cG(A.a([a4,B.Gp,A.cZ(A.jm(A.a([a5,s,B.bP,r,B.e5,A.bt("Kedung losari, Tembelang, Jombang, East Java, Indonesia, 61452",m?b:n.oI(B.lb,B.ar),b,b)],o),B.b5),2)],o),B.C,B.D),b),B.vq,B.ca)
-a1=A.qx(b,b,b,b,new A.ek(b,b,b,B.vf,B.Bi,new A.lt(B.ko,B.eq,B.bS,A.a([B.eO,B.c7,B.i,B.c7],a1),b,b),B.ax),12,B.zd,b,b)
-a5=a0.r
-s=a5==null
-r=A.h4(A.cG(A.a([B.EJ,A.bt("About Me",s?b:a5.lW(B.b3,B.a4,1),b,b)],o),B.C,B.D),!1,!0)
-l=A.h4(A.bt("I dedicated to my own continual self development. Currently, I'm developing a mobile application using Flutter with graphql network API integration, then I'm also interested in learning about artificial intelligence and machine learning for research purposes.",q,B.cT,b),!1,!1)
-k=A.h4(A.cG(A.a([B.EF,A.bt("Skill",s?b:a5.lW(B.b3,B.a4,1),b,b)],o),B.C,B.D),!1,!0)
-j=a0.w
-i=j==null
-h=A.cG(A.a([A.cZ(A.bt("Flutter",i?b:j.eq(B.m),b,b),1),A.cZ(A.rJ(B.b4,B.b3,16,0.95),1)],o),B.C,B.D)
-g=A.cG(A.a([A.cZ(A.bt("Git",i?b:j.eq(B.m),b,b),1),A.cZ(A.rJ(B.b4,B.eL,16,0.8),1)],o),B.C,B.D)
-f=A.cG(A.a([A.cZ(A.bt("Android",i?b:j.eq(B.m),b,b),1),A.cZ(A.rJ(B.b4,B.c5,16,0.6),1)],o),B.C,B.D)
-e=A.cG(A.a([A.cZ(A.bt("Golang",i?b:j.eq(B.m),b,b),1),A.cZ(A.rJ(B.b4,B.c5,16,0.6),1)],o),B.C,B.D)
-d=A.cG(A.a([A.cZ(A.bt("Nodejs",i?b:j.eq(B.m),b,b),1),A.cZ(A.rJ(B.b4,B.c5,16,0.6),1)],o),B.C,B.D)
-h=A.h4(A.jm(A.a([new A.ck(B.b6,h,b),new A.ck(B.b6,g,b),new A.ck(B.b6,f,b),new A.ck(B.b6,e,b),new A.ck(B.b6,d,b),new A.ck(B.b6,A.cG(A.a([A.cZ(A.bt("Management",i?b:j.eq(B.m),b,b),1),A.cZ(A.rJ(B.b4,B.c5,16,0.6),1)],o),B.C,B.D),b)],o),B.C),!1,!1)
-g=A.h4(A.cG(A.a([B.EI,A.bt("Link",s?b:a5.lW(B.b3,B.a4,1),b,b)],o),B.C,B.D),!1,!0)
-f=A.ET(b,b,b,b,b,b,b,b,b,b,b,b,B.Z,b,b,b,b,b,b)
-e=A.of(A.Sd("images/linkedin-logo.png",b,b,b),20,b)
-f=A.a_x(A.cG(A.a([e,B.cQ,A.cZ(A.bt("www.linkedin.com/in/agustrip",p?b:q.oH(1),b,b),1)],o),B.C,B.D),new A.a3s(),f)
-e=A.ET(b,b,b,b,b,b,b,b,b,b,b,b,B.Z,b,b,b,b,b,b)
-d=A.of(A.Sd("images/github-logo.png",B.eL,B.vb,b),22,b)
-e=A.a_x(A.cG(A.a([d,B.cQ,A.bt("https://github.com/atprastyo",p?b:q.oH(1),b,b)],o),B.C,B.D),new A.a3t(),e)
-d=A.ET(b,b,b,b,b,b,b,b,b,b,b,b,B.Z,b,b,b,b,b,b)
-c=A.of(A.Sd("images/playstore.png",b,b,b),22,b)
-d=A.a_x(A.cG(A.a([c,B.cQ,A.bt("devId=8932749481565676842",p?b:q.oH(1),b,b)],o),B.C,B.D),new A.a3u(),d)
-c=A.ET(b,b,b,b,b,b,b,b,b,b,b,b,B.Z,b,b,b,b,b,b)
-f=A.h4(A.jm(A.a([f,B.bP,e,B.bP,d,B.bP,A.a_x(A.cG(A.a([B.zZ,B.cQ,A.bt("https://atprastyo.github.io",p?b:q.oH(1),b,b)],o),B.C,B.D),new A.a3v(),c),B.e5],o),B.C),!1,!1)
-r=A.cZ(A.jm(A.a([r,B.b_,l,B.jT,k,B.b_,h,B.jT,g,B.b_,f,B.e5,A.h4(new A.ck(B.zg,A.jm(A.a([A.bt("Created with Flutter",m?b:n.eq(B.ar),b,b),B.b_,B.KA],o),B.C),b),!0,!0)],o),B.c8),1)
-l=A.h4(A.cG(A.a([B.EH,A.bt("Experience",s?b:a5.lW(B.b3,B.a4,1),b,b)],o),B.C,B.D),!1,!0)
-k=A.h4(A.jm(A.a([this.D6(a6,"Software Engineer at Wahyoo, Jakarta","September 2019 \u2013 Present","Developing mobile application with flutter in an agile scrum development process environment. \nMy responsibilities: \n\u2022  Develop and deploy our built design pattern of mobile application.\n\u2022  Translating mockups and wireframes design into mobile user interface code.","nodejs, graphql, flutter, provider, firebase",a),B.z1,this.D6(a6,"Software Engineer at Twiscode Pte. Ltd., Surabaya","September 2018 \u2013 August 2019","Develop mobile application with React Native in an agile scrum development process environment. Twiscode is a digital agency for brand consultant where update business one step ahead with technology.","react native, androidx, kotlin, rest API",a),B.e6],o),B.C),!1,!1)
-a5=A.h4(A.cG(A.a([B.EG,B.cQ,A.cZ(A.bt("Education",s?b:a5.lW(B.b3,B.a4,1),b,b),1)],o),B.C,B.D),!1,!0)
-s=A.bt("Politeknik Elektronika Negeri Surabaya, Bachelor of Applied Science - BASc",i?b:j.eq(B.ar),b,b)
-j=A.bt("August 2014 \u2013 August 2018",p?b:q.oI(B.r,B.m),b,b)
-q=A.bt("Learn every basic skill that can support the growth and development of the game industry, there's technical abilities, design skills, and business skills for entrepreneurship in the gaming industry. Completed my final project in the field of content management system and graphic rendering with the title \u201c3D Inventory Information System Game Technology Laboratory using Structure Sensor\u201d and graduated with GPA of 3.52/4.00.",p?b:q.hV(B.k),B.e8,b)
-a1=A.a([a4,a1,A.cG(A.a([r,A.cZ(new A.ck(B.zi,A.jm(A.a([l,B.b_,k,B.jT,a5,B.b_,A.h4(A.jm(A.a([s,B.e6,j,B.e6,q,B.e5,A.cG(A.a([A.bt("Skill: ",m?b:n.eq(B.ar),b,b),A.cZ(A.bt("android, php, nodejs, unity3d, management",n,b,b),1)],o),B.b5,B.D),B.e6],o),B.c8),!1,!1),B.Gq],o),B.c8),b),2)],o),B.b5,B.D)],o)
-a4=A.aR([null,0],t.st,t.S)
-a5=!0
-a5=a5?B.uY:b
-return new A.u7(A.qx(b,new A.Bx(new A.ZN(!0,!0,!0,a1,a4),B.zk,B.bo,!1,b,b,a5,!1,b,3,B.bw,B.Fj,b,B.aq,b),b,b,new A.ek(b,b,new A.cW(a3,a3,a3,a3),b,b,new A.lt(B.ko,B.eq,B.bS,a2,b,b),B.ax),b,b,B.ze,b),B.i,b)},
+O(a6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=null,a0="Team management, Mobile app development, Git",a1=A.bg(a6).RG,a2=t.bk,a3=A.a([B.c7,B.i,B.eO,B.i,B.c7],a2),a4=new A.cL(B.d6,2,B.aw,B.a_),a5=A.q2(88)
+a5=A.cZ(new A.ck(B.zl,new A.za(a5,A.Sd("assets/images/profile_circle.png",a,a,160),a),a),1)
+s=a1.c
+s=A.bt("Agus Tri Prastyo",s==null?a:s.oI(B.q,B.a4),a,a)
+r=a1.f
+r=A.bt("Software Engineer",r==null?a:r.oI(B.la,B.ar),a,a)
+q=a1.x
+q=A.bt("+6281939143915",q==null?a:q.E3(B.k,1.8),a,a)
+p=a1.z
+o=p==null
+n=t.T
+q=A.cG(A.a([B.zW,B.uj,q,B.Go,B.A0,B.uj,A.bt("agustrip@gmail.com",o?a:p.E3(B.k,1.4),a,a)],n),B.C,B.D)
+m=a1.y
+l=m==null
+a5=A.Ol(new A.ck(B.zf,A.cG(A.a([a5,B.Gp,A.cZ(A.jm(A.a([s,r,B.bP,q,B.e5,A.bt("Kedung losari, Tembelang, Jombang, East Java, Indonesia, 61452",l?a:m.oI(B.lb,B.ar),a,a)],n),B.b5),2)],n),B.C,B.D),a),B.vq,B.ca)
+a2=A.qx(a,a,a,a,new A.ek(a,a,a,B.vf,B.Bi,new A.lt(B.ko,B.eq,B.bS,A.a([B.eO,B.c7,B.i,B.c7],a2),a,a),B.ax),12,B.zd,a,a)
+s=a1.r
+r=s==null
+q=A.h4(A.cG(A.a([B.EJ,A.bt("About Me",r?a:s.lW(B.b3,B.a4,1),a,a)],n),B.C,B.D),!1,!0)
+k=A.h4(A.bt("I dedicated to my own continual self development. Currently, I'm developing a mobile application using Flutter with graphql network API integration, then I'm also interested in learning about artificial intelligence and machine learning for research purposes.",p,B.cT,a),!1,!1)
+j=A.h4(A.cG(A.a([B.EF,A.bt("Skill",r?a:s.lW(B.b3,B.a4,1),a,a)],n),B.C,B.D),!1,!0)
+i=a1.w
+h=i==null
+g=A.cG(A.a([A.cZ(A.bt("Flutter",h?a:i.eq(B.m),a,a),1),A.cZ(A.rJ(B.b4,B.b3,16,0.95),1)],n),B.C,B.D)
+f=A.cG(A.a([A.cZ(A.bt("Git",h?a:i.eq(B.m),a,a),1),A.cZ(A.rJ(B.b4,B.eL,16,0.8),1)],n),B.C,B.D)
+e=A.cG(A.a([A.cZ(A.bt("Android",h?a:i.eq(B.m),a,a),1),A.cZ(A.rJ(B.b4,B.c5,16,0.6),1)],n),B.C,B.D)
+d=A.cG(A.a([A.cZ(A.bt("Golang",h?a:i.eq(B.m),a,a),1),A.cZ(A.rJ(B.b4,B.c5,16,0.6),1)],n),B.C,B.D)
+c=A.cG(A.a([A.cZ(A.bt("Nodejs",h?a:i.eq(B.m),a,a),1),A.cZ(A.rJ(B.b4,B.c5,16,0.6),1)],n),B.C,B.D)
+g=A.h4(A.jm(A.a([new A.ck(B.b6,g,a),new A.ck(B.b6,f,a),new A.ck(B.b6,e,a),new A.ck(B.b6,d,a),new A.ck(B.b6,c,a),new A.ck(B.b6,A.cG(A.a([A.cZ(A.bt("Management",h?a:i.eq(B.m),a,a),1),A.cZ(A.rJ(B.b4,B.c5,16,0.6),1)],n),B.C,B.D),a)],n),B.C),!1,!1)
+f=A.h4(A.cG(A.a([B.EI,A.bt("Link",r?a:s.lW(B.b3,B.a4,1),a,a)],n),B.C,B.D),!1,!0)
+e=A.ET(a,a,a,a,a,a,a,a,a,a,a,a,B.Z,a,a,a,a,a,a)
+d=A.of(A.Sd("assets/images/linkedin-logo.png",a,a,a),20,a)
+e=A.a_x(A.cG(A.a([d,B.cQ,A.cZ(A.bt("www.linkedin.com/in/agustrip",o?a:p.oH(1),a,a),1)],n),B.C,B.D),new A.a3s(),e)
+d=A.ET(a,a,a,a,a,a,a,a,a,a,a,a,B.Z,a,a,a,a,a,a)
+c=A.of(A.Sd("assets/images/github-logo.png",B.eL,B.vb,a),22,a)
+d=A.a_x(A.cG(A.a([c,B.cQ,A.bt("https://github.com/atprastyo",o?a:p.oH(1),a,a)],n),B.C,B.D),new A.a3t(),d)
+c=A.ET(a,a,a,a,a,a,a,a,a,a,a,a,B.Z,a,a,a,a,a,a)
+b=A.of(A.Sd("assets/images/playstore.png",a,a,a),22,a)
+c=A.a_x(A.cG(A.a([b,B.cQ,A.bt("devId=8932749481565676842",o?a:p.oH(1),a,a)],n),B.C,B.D),new A.a3u(),c)
+b=A.ET(a,a,a,a,a,a,a,a,a,a,a,a,B.Z,a,a,a,a,a,a)
+e=A.h4(A.jm(A.a([e,B.bP,d,B.bP,c,B.bP,A.a_x(A.cG(A.a([B.zZ,B.cQ,A.bt("https://atprastyo.github.io",o?a:p.oH(1),a,a)],n),B.C,B.D),new A.a3v(),b),B.e5],n),B.C),!1,!1)
+q=A.cZ(A.jm(A.a([q,B.b_,k,B.jT,j,B.b_,g,B.jT,f,B.b_,e,B.e5,A.h4(new A.ck(B.zg,A.jm(A.a([A.bt("Created with Flutter",l?a:m.eq(B.ar),a,a),B.b_,B.KA],n),B.C),a),!0,!0)],n),B.c8),1)
+k=A.h4(A.cG(A.a([B.EH,A.bt("Experience",r?a:s.lW(B.b3,B.a4,1),a,a)],n),B.C,B.D),!1,!0)
+j=A.h4(A.jm(A.a([this.D6(a6,"Software Engineer at Wahyoo, Jakarta","September 2019 \u2013 Present","Developing mobile application with flutter in an agile scrum development process environment. \nMy responsibilities: \n\u2022  Develop and deploy our built design pattern of mobile application.\n\u2022  Translating mockups and wireframes design into mobile user interface code.","nodejs, graphql, flutter, provider, firebase",a0),B.z1,this.D6(a6,"Software Engineer at Twiscode Pte. Ltd., Surabaya","September 2018 \u2013 August 2019","Develop mobile application with React Native in an agile scrum development process environment. Twiscode is a digital agency for brand consultant where update business one step ahead with technology.","react native, androidx, kotlin, rest API",a0),B.e6],n),B.C),!1,!1)
+s=A.h4(A.cG(A.a([B.EG,B.cQ,A.cZ(A.bt("Education",r?a:s.lW(B.b3,B.a4,1),a,a),1)],n),B.C,B.D),!1,!0)
+r=A.bt("Politeknik Elektronika Negeri Surabaya, Bachelor of Applied Science - BASc",h?a:i.eq(B.ar),a,a)
+i=A.bt("August 2014 \u2013 August 2018",o?a:p.oI(B.r,B.m),a,a)
+p=A.bt("Learn every basic skill that can support the growth and development of the game industry, there's technical abilities, design skills, and business skills for entrepreneurship in the gaming industry. Completed my final project in the field of content management system and graphic rendering with the title \u201c3D Inventory Information System Game Technology Laboratory using Structure Sensor\u201d and graduated with GPA of 3.52/4.00.",o?a:p.hV(B.k),B.e8,a)
+a2=A.a([a5,a2,A.cG(A.a([q,A.cZ(new A.ck(B.zi,A.jm(A.a([k,B.b_,j,B.jT,s,B.b_,A.h4(A.jm(A.a([r,B.e6,i,B.e6,p,B.e5,A.cG(A.a([A.bt("Skill: ",l?a:m.eq(B.ar),a,a),A.cZ(A.bt("android, php, nodejs, unity3d, management",m,a,a),1)],n),B.b5,B.D),B.e6],n),B.c8),!1,!1),B.Gq],n),B.c8),a),2)],n),B.b5,B.D)],n)
+a5=A.aR([null,0],t.st,t.S)
+s=!0
+s=s?B.uY:a
+return new A.u7(A.qx(a,new A.Bx(new A.ZN(!0,!0,!0,a2,a5),B.zk,B.bo,!1,a,a,s,!1,a,3,B.bw,B.Fj,a,B.aq,a),a,a,new A.ek(a,a,new A.cW(a4,a4,a4,a4),a,a,new A.lt(B.ko,B.eq,B.bS,a3,a,a),B.ax),a,a,B.ze,a),B.i,a)},
 D6(a,b,c,d,e,f){var s,r,q,p,o,n,m=null,l=A.bg(a).RG,k=l.x
 k=A.bt(c,k==null?m:k.hV(B.r),m,m)
 s=l.w
