@@ -71646,7 +71646,7 @@ else g=p.pm(B.cc,b0?16:a0,B.ar,1)
 g=A.i2(A.cM(A.a([new A.bS(B.ed,h,a0),A.br("Link",g,a0)],b5),B.J,B.y),!1,!0)
 h=A.qF(a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,B.aq,a0,a0,a0,a0,a0,a0)
 f=A.fm(A.F7("assets/images/linkedin-logo.png",a0,a0,a0,a0),20,a0)
-h=A.xp(A.cM(A.a([f,B.fg,A.ch(A.fu("www.linkedin.com/in/agustrip",a0,m?a0:b6.um(1),a0),1)],b5),B.J,B.y),new A.a9C(),h)
+h=A.xp(A.cM(A.a([f,B.fg,A.ch(A.fu("www.linkedin.com/in/atprastyo",a0,m?a0:b6.um(1),a0),1)],b5),B.J,B.y),new A.a9C(),h)
 f=A.qF(a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,B.aq,a0,a0,a0,a0,a0,a0)
 e=A.fm(A.F7("assets/images/github-logo.png",B.cL,B.x0,a0,a0),22,a0)
 f=A.xp(A.cM(A.a([e,B.fg,A.ch(A.fu("https://github.com/atprastyo",a0,m?a0:b6.um(1),a0),1)],b5),B.J,B.y),new A.a9D(),f)
@@ -71708,7 +71708,7 @@ $S:2}
 A.a9C.prototype={
 $0(){var s=0,r=A.W(t.H),q
 var $async$$0=A.X(function(a,b){if(a===1)return A.T(b,r)
-while(true)switch(s){case 0:q=A.xP("www.linkedin.com/in/agustrip")
+while(true)switch(s){case 0:q=A.xP("www.linkedin.com/in/atprastyo")
 q.toString
 s=2
 return A.Y(A.Bw(q),$async$$0)
